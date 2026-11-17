@@ -1,0 +1,17 @@
+{
+  "CPU": {
+    "Name": "AMD Ryzen 5 5600X 6-Core Processor             ",
+    "NumberOfCores": 6,
+    "NumberOfLogicalProcessors": 12
+  },
+  "RAM_bytes": 17086652416,
+  "OS": "Майкрософт Windows 11 Домашняя",
+  "Version": "10.0.26200",
+  "Build": "26200",
+  "Architecture": "64-разрядная",
+  "ExperimentDate": "2026-11-17",
+  "Timezone": "Europe/Samara",
+  "Compiler": "Clang 23.1.5 (LLVM-MinGW 20261104)",
+  "Flags": "-std=c++17 -O2 -Wall -Wextra -Wpedantic",
+  "DataSeed": 20261117
+}
